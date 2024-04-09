@@ -32,14 +32,14 @@ Add the data folder to your Google Drive.
 
 To mount your Google Drive on Google Colab, follow these steps:
 
-####1. Run the following code block in Google Colab:
+1. Run the following code block in Google Colab:
 
     ```bash
     from google.colab import drive
     drive.mount('/content/drive')
     ```
-####2. Follow the link provided and authenticate with your Google account.
-####3. Copy the authentication code and paste it into the designated area.
+2. Follow the link provided and authenticate with your Google account.
+3. Copy the authentication code and paste it into the designated area.
 
 ### 6. Navigate to Content Directory
 
