@@ -14,7 +14,7 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/your_username/brain_tumor_detection.git
 ```
 
-### 2. Open vit3.ipynb
+### 2. Open vit3.ipynb(optional, only to see how the code runs)
 Open the vit3.ipynb notebook in your preferred Python environment. This notebook contains the code which runs for brain tumor detection using ViT.
 
 ### 3. Install Dependencies
