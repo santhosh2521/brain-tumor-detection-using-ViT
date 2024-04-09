@@ -24,9 +24,9 @@ Before running any code blocks, make sure to install the required dependencies. 
 !pip install tensorflow scikit-learn
 ```
 
-### 4. Transfer the Data Folder to drive
+### 4. Transfer the Folder and Files to drive
 
-Add the data folder to your Google Drive.
+Add the data folder,vit.py and utils.py to your Google Drive.
 
 ### 5. Mount Google Drive on Google Colab
 
