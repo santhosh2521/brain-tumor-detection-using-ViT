@@ -1,4 +1,4 @@
-# brain-tumor-detection-using-ViT
+# Brain-tumor-detection-using-ViT
 
 Welcome to the Brain Tumor Detection project using Vision Transformer (ViT)! This project aims to detect brain tumors using ViT, a transformer-based architecture originally designed for image classification tasks.
 
