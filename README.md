@@ -39,7 +39,7 @@ To mount your Google Drive on Google Colab, follow these steps:
     drive.mount('/content/drive')
     ```
 2. Follow the link provided and authenticate with your Google account.
-3. Copy the authentication code and paste it into the designated area.
+3. Copy the authentication code and paste it into the designated area only if you have 2 factor authentication.
 
 ### 6. Navigate to Content Directory
 
